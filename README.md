@@ -1,5 +1,5 @@
 # demo
-This is my first Git Repository.
+
 <br>Deloitte Data Analytics Project
 This project involves analyzing employee compensation data to identify pay gaps and equity.
 
