@@ -9,6 +9,6 @@ Excel: Data cleaning and pivot tables.
 Tableau: Visualizing the final insights.
 
 Key Insights:
-Found that [X]% of employees were in the "Unfairly Compensated" category.
+Found that almost more than 50% of employees were in the "Unfairly and Highly discriminatively Compensated" category.
 
 Identified specific departments with the highest pay discrimination.
